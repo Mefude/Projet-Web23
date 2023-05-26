@@ -1,5 +1,5 @@
 <?php
-$title = "Accueil";
+$title = "Thé en folie";
 include 'template.php';
 
 ?>
